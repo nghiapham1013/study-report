@@ -1,4 +1,4 @@
-# Nâng cao kỹ năng giao tiếp với khách hàng
+# Nâng cao kỹ năng giao tiếp với khách hàng (1/3)
 ![](https://github.com/nghiapham1013/study-report/blob/201807-study-report/communicate.jpg)
 
 Dù làm bất cứ công việc gì đi nữa, thì việc chúng ta luôn giữ khuôn mặt tươi cười khi nói chuyện với khách hàng sẽ làm cho họ cảm thấy dễ chịu hơn. Chính vì vậy, việc tập luyện để có một nụ cười, vẻ mặt tự nhiên là rất cần thiết đối với những người thường xuyên tiếp xúc với khách hàng.
