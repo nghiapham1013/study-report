@@ -39,3 +39,6 @@ Hãy thực hành những phương pháp trên thật nhiều. Và sau khi thự
 Nếu rơi vào trường hợp số ④ thì hãy đừng thắc mắc về tính cách của khách hàng mà hãy xem lại chúng ta đã dùng từ ngữ phù hợp trong các cuộc nói chuyện hay chưa.
 Việc nâng cao kỹ năng giao tiếp không quá khó như chúng ta thường nghĩ. Vì vậy, hãy thực hành thật nhiều những phương pháp đã được đưa ra ở trên. Ngoài ra, để có thể có một mối quan hệ tốt với khách hàng, để dự án có thể chạy một cách trôi chảy nhất thì ngoài kỹ năng giao tiếp hãy rèn luyện thêm nhiều kỹ năng khác nữa.
 Chúc các bạn thành công!
+
+*Nguồn tham khảo:*
+http://1st-stroke.com/communication/
