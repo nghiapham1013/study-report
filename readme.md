@@ -83,3 +83,6 @@ Với thời đại công nghệ thông tin 4.0 hiện nay thì bạn chẳng c�
 Nếu sử dụng phương pháp đó thì chỉ cần ngồi ở nhà bạn cũng có thể kết bạn với một người Nhật đang ở Tokyo
 
 Như vậy việc tìm hiểu về phương pháp học tiếng Nhật hữu ích của người nước ngoài, cụ thể ở đây là của một số vlogger đã kết thúc. Sau bài viết này hy vọng các bạn đã hình dung trong đầu những việc mình phải làm ngay lúc này để cải thiện phương pháp học tiếng Nhật của mình. Chúc các bạn may mắn!
+
+
+*Reference: https://eigokoryaku.com/study/study_foreign-japanese-speaker.html*
