@@ -1,9 +1,10 @@
-![BMW R80](https://github.com/nghiapham1013/study-report/blob/master/bmw%20r80.jpg)
 # Khái niệm, vai trò và những kỹ năng cần thiết của một Project Manager (1/2)
+![](https://github.com/nghiapham1013/study-report/blob/201811-study-report/pm1.jpg)
 
 Nếu bạn đang là một engineer hoặc freelancer thì chắc hẳn cũng đã nghe đến khái niệm Project Manager. Project Manager, thường được gọi tắt là PM, là vị trí có vai trò quản lí tổng thể trong dự án. Mặc dù vậy, bên cạnh PM cũng tồn tại một số khái niệm khiến chúng ta rất khó phân biệt như PMO, PL. Và ở bài viết này, chúng ta hãy cùng tìm hiểu khái niệm về một PM, vai trò, và những kỹ năng cần thiết đối với vị trí này.
 
 ## PM là gì? PM khác với PMO như thế nào?
+![](https://github.com/nghiapham1013/study-report/blob/201811-study-report/pm2.jpg)
 
 ### Khái niệm về PM (Project Manager)
 PM là người có trách nhiệm quản lý tổng thể cả một dự án. PM sẽ phụ trách những công việc như định lượng quy mô dự án, tuyển chọn member, trực tiếp thương thảo với khách hàng và các bộ phận khác, điều chỉnh và quản lý nhân sự trong suốt dự án,... Thậm chí có một số trường hợp PM không phải là người trong công ty mà chỉ là một người được thuê từ bên ngoài, như Freelancer chẳng hạn.
