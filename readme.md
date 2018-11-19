@@ -41,12 +41,15 @@ Thông qua việc giao tiếp hàng ngày, PM cần đảm bảo mọi việc tr
 Một PM sẽ rất cần thiết đối với những dự án tầm trung hoặc dự án lớn. Tại sao một PM lại quan trọng đến vậy thì qua nội dung công việc của PM ở bên trên chúng ta cũng có thể mường tượng ra được, tuy nhiên cũng có một số lý do khác mà tôi xin được nêu ra dưới đây
 
 *Định hướng dự án*
+
 Có những dự án hoạt động mà không cần PM, tuy nhiên hầu hết đó là những dự án nhỏ lẻ. Còn đối với những dự án cỡ lớn, khi mà yêu cầu về chất lượng cũng như quy mô sản phẩm lớn hơn gấp nhiều lần, thì việc phát sinh những việc như kinh phí vượt ngoài dự toán, chất lượng sản phẩm không được như mong muốn, có những cuộc họp không cần thiết,... là rất dễ xảy ra. Nhưng nếu có sự xuất hiện của một PM thì việc đảm bảo chất lượng, rút ngắn thời gian phát triển,... sẽ trở nên khả thi
 
 *PM là người có nhiều kinh nghiệm*
+
 Tất nhiên cũng có những người mới bắt đầu làm PM nhưng về mặt cơ bản, người ta sẽ chọn ra người có nhiều kinh nghiệm để làm PM của một dự án. Dù mỗi người có thể có một Career path khác nhau (từ developer lên làm PM, từ PMO lên làm PM), tuy nhiên điểm chung ở những con người đó là đều có kinh nghiệm, đã trải qua nhiều dự án khác nhau. Kinh nghiệm và kiến thức chính là 2 thứ vũ khí lợi hại nhất của một PM, trong hành trình đưa dự án đến với thành công
 
 *Chúng ta sẽ yên tâm hơn với một người có trách nhiệm rõ ràng*
+
 Việc thảo luận giữa tất cả các thành viên trong dự án dĩ nhiên cũng quan trọng, nhưng khi quy mô dự án ở mức vừa và lớn thì việc giao tiếp giữa tất cả mọi người sẽ trở nên rất khó khăn. Trong trường hợp đó, một người có trách nhiệm cụ thể như PM thì việc tăng giảm member dự án sẽ không còn là vấn đề nữa
 
 Như vậy chúng ta đã cùng nhau tìm hiểu qua khái niệm, vai trò của một PM trong dự án. Ở phần sau của bài viết, hãy cùng tìm hiểu xem một PM thì cần có những kỹ năng gì?
