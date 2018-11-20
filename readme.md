@@ -53,3 +53,7 @@ Tất nhiên cũng có những người mới bắt đầu làm PM nhưng về m
 Việc thảo luận giữa tất cả các thành viên trong dự án dĩ nhiên cũng quan trọng, nhưng khi quy mô dự án ở mức vừa và lớn thì việc giao tiếp giữa tất cả mọi người sẽ trở nên rất khó khăn. Trong trường hợp đó, một người có trách nhiệm cụ thể như PM thì việc tăng giảm member dự án sẽ không còn là vấn đề nữa
 
 Như vậy chúng ta đã cùng nhau tìm hiểu qua khái niệm, vai trò của một PM trong dự án. Ở phần sau của bài viết, hãy cùng tìm hiểu xem một PM thì cần có những kỹ năng gì?
+
+
+
+*Bài viết tham khảo: https://furien.jp/columns/221/*
