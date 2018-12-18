@@ -1,59 +1,60 @@
-# Khái niệm, vai trò và những kỹ năng cần thiết của một Project Manager (1/2)
-![](https://github.com/nghiapham1013/study-report/blob/201811-study-report/pm1.jpg)
+# Khái niệm, vai trò và những kỹ năng cần thiết của một Project Manager (2/2)
+![](https://github.com/nghiapham1013/study-report/blob/201812-study-report/pm21.jpg)
 
-Nếu bạn đang là một engineer hoặc freelancer thì chắc hẳn cũng đã nghe đến khái niệm Project Manager. Project Manager, thường được gọi tắt là PM, là vị trí có vai trò quản lí tổng thể trong dự án. Mặc dù vậy, bên cạnh PM cũng tồn tại một số khái niệm khiến chúng ta rất khó phân biệt như PMO, PL. Và ở bài viết này, chúng ta hãy cùng tìm hiểu khái niệm về một PM, vai trò, và những kỹ năng cần thiết đối với vị trí này.
+Tiếp tục tìm hiểu về vai trò Project Manager(PM), lần này chúng ta hãy cùng bàn luận về những kỹ năng cần thiết của một người đảm nhiệm vị trí PM trong dự án. Ngoài ra, tôi cũng xin chia sẻ với các bạn về lộ trình để trở thành một PM
 
-## PM là gì? PM khác với PMO như thế nào?
-![](https://github.com/nghiapham1013/study-report/blob/201811-study-report/pm2.jpg)
+## Kỹ năng cần thiết và Career plan để trở thành một PM
+![]()
 
-### Khái niệm về PM (Project Manager)
-PM là người có trách nhiệm quản lý tổng thể cả một dự án. PM sẽ phụ trách những công việc như định lượng quy mô dự án, tuyển chọn member, trực tiếp thương thảo với khách hàng và các bộ phận khác, điều chỉnh và quản lý nhân sự trong suốt dự án,... Thậm chí có một số trường hợp PM không phải là người trong công ty mà chỉ là một người được thuê từ bên ngoài, như Freelancer chẳng hạn.
+### Những kỹ năng cần thiết
+Tuỳ vào mỗi công ty, mỗi dự án mà yêu cầu về kỹ năng của một PM có thể thay đổi. Ở đây tôi xin được giới thiệu đến các bạn 5 kỹ năng cơ bản mà mỗi người PM cần phải có
 
-### Sự khác biệt giữa PM và PMO
-PM là người đưa ra các quyết định liên quan đến tổng thể của dự án, trong khi PMO chỉ tập trung về mặt quản lý. Ngoài ra, những khi PM vắng mặt thì người mà tạm thời thay thế PM dẫn dắt dự án cũng được gọi là PMO. Như vậy, nội dung công việc và mức độ trách nhiệm của 2 vai trò là hoàn toàn khác nhau.
+*Khả năng đưa ra những đề xuất*
 
-### Vai trò và nội dung công việc
-Vai trò của một PM được phân ra làm 3 yếu tố chính, đối với mỗi vai trò sẽ có nội dung công việc tương ứng
+Mặc dù nghe có vẻ giống hơn với kỹ năng của một IT Consultant nhưng là một PM thì cũng cần có khả năng đưa ra những lời gợi ý, đề xuất cải thiện đối với yêu cầu từ phía khách hàng hay thậm chí từ member của mình. Cần phải biết được là làm theo đúng như đã được yêu cầu có ổn không, trường hợp yêu cầu có vượt quá khả năng thì phải làm gì.
 
-*Đưa ra những quyết định*
-- Tổng hợp yêu cầu của khách hàng, sau đó quyết định về mặt kinh phí, con người, schedule
-- Xác định yêu cầu và đưa vào bản thiết kế
-- Nếu phát sinh change request giữa chừng thì PM sẽ là người thông qua
-Như vậy, PM luôn là người có vai trò đưa ra những quyết định liên quan đến tổng thể toàn bộ dự án
+*Kỹ năng quản lý*
 
-*Quản lý, hỗ trợ dự án*
-- Truyền đạt lại chính xác cho các member còn lại trong dự án yêu cầu từ phía khách hàng
-- Giải thích chi tiết nội dung yêu cầu sao cho tất cả mọi thành viên đều hiểu được
-- Tiến hành các cuộc họp theo đơn vị team và quyết định cách thức quản lý tiến độ
-- Tạo, thay đổi, theo dõi schedule
-- Đưa ra feedback đối với sản phẩm
-- Xem xét và điều chỉnh khối lượng công việc của các thành viên nếu cần thiết
-Ngoài công việc quản lý tiến độ tổng quan thì PM cũng cần phải kiểm soát dự án thông qua những việc như theo dõi xem PL (Project Leader) có đang quản lý member tốt hay không, schedule có đang theo đúng với mong muốn hay không
+Công việc của PM là quản lý tổng thể cả dự án. Một PM phải có khả năng quản lý tốt bản thân, member cũng như những yếu tố khác trong dự án như cải thiện chất lượng sản phẩm, đảm bảo release đúng hạn,...
 
-*Giữ sự ổn định, hài hoà giữa các thành phần trong dự án*
-- Điều chỉnh request cùng với khách hàng
-- Quan hệ với các bộ phận khác trong công ty
-- Lắng nghe những vấn đề, bất mãn của member
-- Luôn phát triển bản thân và chia sẻ kiến thức cùng tất cả mọi người trong team
-Thông qua việc giao tiếp hàng ngày, PM cần đảm bảo mọi việc trong dự án diễn ra một cách suôn sẻ, không có vấn đề gì xảy ra. Tuy nhiên thì không phải lúc nào cũng đồng ý với yêu cầu từ các phía, cho nên việc từ chối đôi khi cũng rất cần thiết. Vì vậy, kỹ năng phán đoán tình huống để đưa ra quyết định hợp lý là rất quan trọng đối với một PM
+*Kỹ năng giao tiếp*
 
-### 3 lý do chứng tỏ sự cần thiết của một PM trong dự án
-Một PM sẽ rất cần thiết đối với những dự án tầm trung hoặc dự án lớn. Tại sao một PM lại quan trọng đến vậy thì qua nội dung công việc của PM ở bên trên chúng ta cũng có thể mường tượng ra được, tuy nhiên cũng có một số lý do khác mà tôi xin được nêu ra dưới đây
+Phải làm việc thường xuyên với nhiều đối tượng như member trong cũng như ngoài dự án cho nên để công việc diễn ra suôn sẻ thì kỹ năng giao tiếp là rất cần thiết đối với một PM. Ngoài ra việc truyền tải thông tin chính xác cũng là một điều rất quan trọng.
 
-*Định hướng dự án*
+*Khả năng nắm rõ quy trình phát triển*
 
-Có những dự án hoạt động mà không cần PM, tuy nhiên hầu hết đó là những dự án nhỏ lẻ. Còn đối với những dự án cỡ lớn, khi mà yêu cầu về chất lượng cũng như quy mô sản phẩm lớn hơn gấp nhiều lần, thì việc phát sinh những việc như kinh phí vượt ngoài dự toán, chất lượng sản phẩm không được như mong muốn, có những cuộc họp không cần thiết,... là rất dễ xảy ra. Nhưng nếu có sự xuất hiện của một PM thì việc đảm bảo chất lượng, rút ngắn thời gian phát triển,... sẽ trở nên khả thi
+Để dự án có thể vận hành trơn tru hơn, PM có thể hỗ trợ Developer và Tester bằng cách trước khi truyền tải lại spec, phân tích và xác định được những vấn đề đang tồn tại nếu có. Ngoài ra, việc hiểu được flow phát triển sẽ khiến cho việc dựng schedule dễ dàng hơn
 
-*PM là người có nhiều kinh nghiệm*
+*Nắm bắt được xu hướng của thị trường*
 
-Tất nhiên cũng có những người mới bắt đầu làm PM nhưng về mặt cơ bản, người ta sẽ chọn ra người có nhiều kinh nghiệm để làm PM của một dự án. Dù mỗi người có thể có một Career path khác nhau (từ developer lên làm PM, từ PMO lên làm PM), tuy nhiên điểm chung ở những con người đó là đều có kinh nghiệm, đã trải qua nhiều dự án khác nhau. Kinh nghiệm và kiến thức chính là 2 thứ vũ khí lợi hại nhất của một PM, trong hành trình đưa dự án đến với thành công
+Dựa vào xu hướng của thị thị trường để xác định nội dung nghiệp vụ của dự án, hệ thống cần xây dựng, môi trường phát triển cần thiết,... Đặc biệt nếu lựa chọn phải môi trường, công cụ phát triển đã ngừng support thì sẽ rất dễ phát sinh những vấn đề liên quan đến security. Hãy xác định và giải quyết sớm, tận gốc những vấn đề có thể nảy sinh dù là nhỏ nhất
 
-*Chúng ta sẽ yên tâm hơn với một người có trách nhiệm rõ ràng*
+### Những chứng chỉ cần có, nên có
+Có thể những PM lâu năm, nhiều kinh nghiệm thì không cần đến, tuy nhiên tôi vẫn xin giới thiệu qua nhưng chứng chỉ mà một người đang hoặc sẽ làm PM nên sở hữu
 
-Việc thảo luận giữa tất cả các thành viên trong dự án dĩ nhiên cũng quan trọng, nhưng khi quy mô dự án ở mức vừa và lớn thì việc giao tiếp giữa tất cả mọi người sẽ trở nên rất khó khăn. Trong trường hợp đó, một người có trách nhiệm cụ thể như PM thì việc tăng giảm member dự án sẽ không còn là vấn đề nữa
+*PMP*
 
-Như vậy chúng ta đã cùng nhau tìm hiểu qua khái niệm, vai trò của một PM trong dự án. Ở phần sau của bài viết, hãy cùng tìm hiểu xem một PM thì cần có những kỹ năng gì?
+PMP(Project Manager Professional) là một chứng chỉ về quản lí dự án ở cấp quốc tế. Ở trong bài kiểm tra cũng cần sử dụng đến cả kinh nghiệm thực tế nên cho đến lúc đạt được chứng chỉ này thì người ta sẽ càng có động lực để trân trọng trải nghiệm, thời gian của mình hơn.
 
+*TOEIC*
+
+TOEIC là một chứng chỉ tiếng Anh có lẽ không còn xa lạ gì với mọi người nữa. Hầu hết trong các trường đại học hiện nay đều yêu cầu phải có chứng chỉ TOEIC cho việc xét tốt nghiệp. Để tiện cho việc trao đổi với khách hàng, đọc hiểu spec,... thì một PM nên đạt điểm 750 TOEIC trở lên.
+
+### Lộ trình trở thành một PM
+Về cơ bản sẽ có 2 con đường để trở thành một PM. Một là PM đi lên từ Developer, hai là PM đi lên từ các vị trí supporter, consultant. Ngoài ra chúng ta cũng nên cân nhắc việc thể hiện bản thân qua kỹ năng hay tri thức, qua đó tự phát triển thế mạnh của bản thân và nỗ lực cho mục tiêu cuối cùng.
+
+### Career path sau khi đã trở thành một PM
+Một PM có thể hướng đến việc trở thành một IT consultant. IT consultant là người phụ trách giải quyết những vấn đề liên quan đến việc vận hành một công ty, doanh nghiệp, vì thế mà mọi chuyên ngành, lĩnh vực đều cần có vị trí này. Tuy trong công việc cũng có một số yếu tố giống như PM nhưng IT consultant là công việc đòi hỏi một trách nhiệm lớn hơn rất nhiều.
+
+### Thu nhập bình quân của một PM
+Dĩ nhiên mức lương sẽ phù hợp với kỹ năng và kiến thức của mỗi người nhưng vì đòi hỏi ở một PM là nhiều hơn so với một Developer nên mức lương cũng sẽ hấp dẫn hơn.
+
+Theo con số thống kê trong năm 2016 của trang web Furien thì trung bình thu nhập của một PM Nhật Bản rơi vào khoảng 756 vạn Yên, tương đương 1.5 tỉ VND. Sau năm 2016 thì nhu cầu về các dự án phát triển cỡ lớn càng gia tăng nên khả năng con số về mức thu nhập cũng sẽ tăng lên khá nhiều
+
+## Kết bài
+Qua bài viết này có lẽ các bạn đã có thể hình dung phần nào về các vị trí IT consultant, PM, PMO, PL trong dự án cũng như sự khác nhau về nội dung công việc của mỗi vị trí. Ngoài ra thì từ phía khách hàng nhìn vào, tầm quan trọng, mức độ ảnh hưởng cũng sẽ theo thứ tự từ lớn tới nhỏ như sau: IT Consultant > PM > PMO > PL > Member
+
+Và vì PM là một công việc yêu cầu trách nhiệm rất lớn cho nên những ai đang tìm một công việc với trách nhiệm cao, muốn có cảm giác đạt được điều gì đó, muốn tận dụng kỹ năng giao tiếp, muốn thử sức ở vị trí quản lí thì hãy đặt mục tiêu trở thành một Project Manager.
 
 
 *Bài viết tham khảo: https://furien.jp/columns/221/*
