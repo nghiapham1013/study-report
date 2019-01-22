@@ -1,4 +1,4 @@
-# Những điều cần lưu ý trước khi đến Nhật
+# Những điều cần lưu ý trước khi đến với Nhật Bản
 
 ![](https://github.com/nghiapham1013/study-report/blob/201901-study-report/go%201.png)
 
