@@ -1,5 +1,6 @@
 # Tổng quan về khái niệm Teamwork
-![BMW R80](https://github.com/nghiapham1013/study-report/blob/master/bmw%20r80.jpg)
+![](https://github.com/nghiapham1013/study-report/blob/201902-study-report/tw1.png)
+
 Teamwork là một trong những yếu tố không thể thiếu khi chúng ta làm việc trong một môi trường tập thể. Nếu một tập thể hoạt động mà chỉ dựa trên sự thể hiện của từng cá nhân đơn lẻ, dù cho đó là những cá nhân ưu tú và sáng tạo đi chăng nữa, thì rất có thể tập thể đó sẽ sớm mất đi khuynh hướng phát triển chung
 
 Ở trong bài viết này, chúng ta hãy cùng đi tìm hiểu những vấn đề liên quan đến teamwork:
@@ -9,6 +10,8 @@ Teamwork là một trong những yếu tố không thể thiếu khi chúng ta l
 - Merit và demerit liên quan đến teamwork
 
 ## Khái niệm teamwork
+![](https://github.com/nghiapham1013/study-report/blob/201902-study-report/tw2.jpg)
+
 Teamwork là sự hợp tác làm việc của các thành viên trong một nhóm, một tổ chức nhằm đạt được mục tiêu chung
 Trong một môi trường làm việc có tính teamwork cao thì các member không chỉ giúp đỡ nhau khắc phục, hoàn thiện hơn những điểm yếu của mình, mà còn có thể cùng nhau củng cố, phát triển hơn những điểm mạnh của bản thân
 
@@ -17,6 +20,8 @@ Trong một môi trường làm việc có tính teamwork cao thì các member k
 Teamwork chính là nhân tố chủ yếu góp phần làm sâu sắc mối quan hệ giữa các thành viên trong team, vừa nâng cao tính tương trợ, vừa thúc đẩy việc đạt được mục tiêu chung cũng như đổi mới trong một tập thể
 
 ## Mục đích của việc nâng cao teamwork, lợi ích và hiệu quả của việc nâng cao teamwork
+![](https://github.com/nghiapham1013/study-report/blob/201902-study-report/tw3.jpg)
+
 Chính vì là một yếu tố rất quan trọng nên tính teamwork luôn được đề cao và chú trọng trong các môi trường làm việc tập thể
 Về mục tiêu, lợi ích của việc nâng cao tính teamwork thì chúng ta có thể tạm thời tóm tắt trong 4 ý sau:
 - Nâng cao năng suất làm việc
