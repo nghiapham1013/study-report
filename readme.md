@@ -1,5 +1,5 @@
 # Tổng quan về khái niệm Teamwork
-![](https://github.com/nghiapham1013/study-report/blob/201902-study-report/tw1.png)
+![](https://github.com/nghiapham1013/study-report/blob/201902-study-report/tw2.jpg)
 
 Teamwork là một trong những yếu tố không thể thiếu khi chúng ta làm việc trong một môi trường tập thể. Nếu một tập thể hoạt động mà chỉ dựa trên sự thể hiện của từng cá nhân đơn lẻ, dù cho đó là những cá nhân ưu tú và sáng tạo đi chăng nữa, thì rất có thể tập thể đó sẽ sớm mất đi khuynh hướng phát triển chung
 
@@ -10,7 +10,7 @@ Teamwork là một trong những yếu tố không thể thiếu khi chúng ta l
 - Merit và demerit liên quan đến teamwork
 
 ## Khái niệm teamwork
-![](https://github.com/nghiapham1013/study-report/blob/201902-study-report/tw2.jpg)
+![](https://github.com/nghiapham1013/study-report/blob/201902-study-report/tw1.png)
 
 Teamwork là sự hợp tác làm việc của các thành viên trong một nhóm, một tổ chức nhằm đạt được mục tiêu chung
 Trong một môi trường làm việc có tính teamwork cao thì các member không chỉ giúp đỡ nhau khắc phục, hoàn thiện hơn những điểm yếu của mình, mà còn có thể cùng nhau củng cố, phát triển hơn những điểm mạnh của bản thân
