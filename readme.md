@@ -109,7 +109,7 @@ Trước hết, tại Planning process của các area khác, ta sẽ đi dựng
 
 Subsidiary plan bao gồm những bản plan sau
 
-![](https://github.com/nghiapham1013/study-report/blob/201904-study-report/5_subsidiary%20plan.png)
+![](https://github.com/nghiapham1013/study-report/blob/201904-study-report/subsidiary%20plan.png)
 
 #### 1.2.3 Direct and manage project work
 
