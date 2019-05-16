@@ -6,14 +6,14 @@
 
 *[Xem lại: [PM beginner] Những khái niệm và phương pháp cơ bản (P1 - Project Integration Management)](https://github.com/nghiapham1013/study-report/blob/201904-study-report/readme.md)*
 
-`PMBOK, viết tắt của Project Management Of Knowledge, là tài liệu tổng hợp các know-how cũng như những phương pháp quản lý dự án. Những kiến thức trong PMBOK được chia thành 10 areas, 5 processes, 3 parts cần thiết cho quản lý dự án.
-
-Những công việc nằm trong Process là những công việc cần làm theo thứ tự trong suốt vòng đời dự án.
-
-Parts bao gồm những yếu tố như inputs, tools, methods, outputs qua đó thể hiện phương pháp vận hành việc quản lý.`
-
-Những kiến thức thiết yếu cho việc quản lý dự án sẽ được chia thành các `area`, những công việc cần được thực hiện trong cả vòng đời dự án sẽ được nhóm thành các `process`
-Bên cạnh đó `part` sẽ bao gồm các inputs, tools, outputs cần thiết cho những công việc ấy
+>PMBOK, viết tắt của Project Management Of Knowledge, là tài liệu tổng hợp các know-how cũng như những phương pháp quản lý dự án. Những kiến thức trong PMBOK được chia thành 10 areas, 5 processes, 3 parts cần thiết cho quản lý dự án.
+>
+>Những công việc nằm trong Process là những công việc cần làm theo thứ tự trong suốt vòng đời dự án.
+>
+>Parts bao gồm những yếu tố như inputs, tools, methods, outputs qua đó thể hiện phương pháp vận hành việc quản lý.
+>
+>Những kiến thức thiết yếu cho việc quản lý dự án sẽ được chia thành các `area`, những công việc cần được thực hiện trong cả vòng đời dự án sẽ được nhóm thành các `process`
+>Bên cạnh đó `part` sẽ bao gồm các inputs, tools, outputs cần thiết cho những công việc ấy
 
 Scope management là 1 trong 10 area của PMBOK. Và ở bài viết này, chúng ta sẽ tập trung vào tìm hiểu Scope management area
 
@@ -50,12 +50,38 @@ Những công việc thuộc nhóm Planning sẽ được thực hiện vào gia
 
 ##### 2.1.2 Mục đích của việc quản lý scope
 
-Chúng ta có thể hiểu đơn giản Scope management chính là việc quản lý output cuối cùng và phạm vi công việc của dự án. Tuy nhiên tại sao nó lại thực sự cần thiết đối với sự thành công của dự án?
+Chúng ta có thể hiểu đơn giản Scope management chính là việc quản lý output cuối cùng và phạm vi công việc của dự án. Tuy nhiên tại sao nó lại thực sự cần thiết đối với sự thành công của dự án?  
 Câu trả lời ở đây chính là để đáp ứng nhu cầu, và trên hơn hết là nâng cao sự thoả mãn của khách hàng (customer satisfaction)
 
-Dự án được khởi chạy chính là để đáp ứng được nhu cầu, mục đích của khách hàng. Và điều cần thiết chính là tạo ra được output có chất lượng như mong muốn trong một khoảng thời gian như đã dự tính. Chính vì vậy Scope management được sinh ra với vai trò làm rõ được output mong muốn, quản lý phạm vi công việc sao cho phù hợp với chất lượng, thời gian như trong dự toán
+Dự án được khởi chạy chính là để đáp ứng được nhu cầu, mục đích của khách hàng. Và điều cần thiết chính là tạo ra được output có chất lượng như mong muốn trong một khoảng thời gian như đã dự tính.  
+Chính vì vậy Scope management được sinh ra với vai trò làm rõ được output mong muốn, quản lý phạm vi công việc sao cho phù hợp với chất lượng, thời gian như trong dự toán
 
-Để mong muốn của mình được đáp ứng thì dĩ nhiên phía khách hàng sẽ đưa ra rất nhiều yêu cầu. Tuy nhiên chính vì trong dự án thì thời gian và ngân sách sẽ bị giới hạn cho nên rất có thể sẽ không đáp ứng được tất cả các yêu cầu của khách hàng.
+Để mong muốn của mình được đáp ứng thì dĩ nhiên phía khách hàng sẽ đưa ra rất nhiều yêu cầu. Tuy nhiên chính vì trong dự án thì thời gian và ngân sách sẽ bị giới hạn cho nên rất có thể sẽ không đáp ứng được tất cả các yêu cầu của khách hàng.  
 Lúc này, Scope management sẽ có vai trò sắp xếp, điều chỉnh các yêu cầu từ phía khách hàng và lựa chọn ra những yêu cầu thực sự cần thiết để định hình được output cuối cùng của dự án
+
+##### 2.1.3 Những lưu ý về Scope management
+
+Mục đích của Scope management là chọn lọc một số chức năng cần thiết nhất định từ tất cả các yêu cầu của khách hàng thay vì chấp nhận toàn bộ các yêu cầu đó. Vì thực chất, không phải tất cả các yêu cầu từ phía khách hàng đều phù hợp với mục đích cuối cùng  
+Tuỳ vào mỗi công ty/tổ chức mà chỉ có một số người nhất định được tham gia vào quá trình xây dựng yêu cầu. Những người có quyền lực càng lớn thì tiếng nói càng có trọng lượng và chưa chắc chắn tất cả những yêu cầu của người đó đều là những yêu cầu hợp lý và cần thiết
+
+Để đáp ứng được nhu cầu của khách hàng thì trước hết chúng ta cần phải gây dựng được lòng tin từ khách hàng, ngoài ra thì cũng cần phải biết cách làm việc được với bộ phận liên quan đến những yêu cầu đó  
+Không chỉ những người chúng ta gặp gỡ trao đổi hàng ngày mà tất cả những người có liên quan đến việc đưa ra yêu cầu từ phía khách hàng cần được đưa vào trong dự án, để chúng ta có thể làm rõ được những yêu cầu thực sự cần thiết
+
+#### 2.2 Những phương pháp vận dụng Scope management
+
+Như vậy chúng ta đã cùng nhau tìm hiểu những kiến thức, khái niệm cơ bản về Scope management. Tuy nhiên nếu chỉ có lý thuyết mà không có phương pháp thực hành thì rất khó để vận dụng vào trong dự án thực tế. Với việc thực sự bắt tay vào làm việc và tạo ra những output thực tế thì sẽ rất dễ dàng cho chúng ta để có thể áp dụng vào dự án thực tế sau này  
+Vậy hãy cùng tìm hiểu thêm về những phương pháp và output của Scope management theo từng process trong dự án
+
+![]()
+
+##### 2.2.1 Scope management plan
+
+Scope management plan là bước tạo, tài liệu hoá, xác minh lại scope của dự án, quyết định phương hướng quản lý dự án  
+Ở bước tiếp theo của Scope management plan, Collecting requirements, chúng ta cũng sẽ định nghĩa, kiểm chứng, và quản lý scope tuy nhiên trước hết, ở bước này chúng ta sẽ tạo ra những bản hướng dẫn để thực hiện những công việc đó 
+
+Dựa trên những thông tin được mô tả trong Project charter và Project management plan, thông qua những buổi meeting và kết luận của những người có chuyên môn, chúng ta sẽ tạo ra được Scope management plan và Requirements management plan
+
+*Scope management plan  
+
 
 *Bài viết tham khảo: https://www.innopm.com/blog/2017/11/20/scope_management/*
