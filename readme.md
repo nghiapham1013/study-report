@@ -81,7 +81,79 @@ Scope management plan là bước tạo, tài liệu hoá, xác minh lại scope
 
 Dựa trên những thông tin được mô tả trong Project charter và Project management plan, thông qua những buổi meeting và kết luận của những người có chuyên môn, chúng ta sẽ tạo ra được Scope management plan và Requirements management plan
 
-*Scope management plan  
+*Scope management plan*  
+Scope management plan sẽ mô tả làm thế nào để có thể định nghĩa, tài liệu hoá, xác minh, và cuối cùng là quản lý scope của dự án  
+Cụ thể là chúng ta sẽ có thể xác định được hướng xây dựng WBS cũng như xác nhận lại tính hợp lý của scope dự án
 
+*Requirements management plan*  
+Là tài liệu mô tả cách thức thu thập cũng như sắp xếp lại những yêu cầu từ phía khách hàng  
+Bên cạnh đó thì trong tài liệu cũng sẽ mô tả những thời điểm nên thu thập yêu cầu của khách hàng
+
+##### 2.2.2 Thu thập yêu cầu
+
+Thu thập yêu cầu là quá trình định nghĩa cũng như ghi chép lại những yêu cầu từ phía stakeholders như khác hàng hay đơn vị tài trợ  
+Project charter được tạo ra ở Integration management area và Stakeholder register tạo ra ở Communication management area sẽ được sử dụng như input ở bước này
+
+Project charter sẽ miêu tả mục tiêu của dự án cũng như các sản phẩm chính của dự án  
+Ở bước này thì nhu cầu của stakeholders vẫn còn đang rất trừu tượng cho nên chúng ta cần thực hiện trao đổi, đặt ra câu hỏi đối với những bên nằm trong danh sách Stakeholder register để cuối cùng có thể tạo ra một bản tổng hợp requirements mà ở đó các yêu cầu được xác định cụ thể. Dần dần qua nhiều lần thực hiện hỏi đáp thì các requirements sẽ càng rõ ràng hơn
+
+Mặt khác, nếu chưa xác nhận được là requirements đã được xử lý đúng cách cũng như từ đó có xác định được phạm vi và sản phẩm hay không, thì việc thu thập yêu cầu sẽ không còn ý nghĩa nữa  
+`Requirements Traceability Matrix` (Ma trận truy dấu yêu cầu) sẽ được tạo ra để theo dõi và quản lý requirements trong suốt vòng đời của dự án
+
+*Requirements Traceability Matrix*  
+Là biểu đồ dùng để theo dấu các requirements nhận được trong suốt vòng đời dự án. Nội dung chính được mô tả chính là nguồn gốc, độ ưu tiên, trạng thái chấp thuận, và những thay đổi của requirements
+
+##### 2.2.3 Xác định scope của dự án
+
+Là quá trình xác định phạm vị của dự án dựa trên những requirements nhận được
+Chúng ta sẽ tạo ra bản Project scope statement (tuyên bố phạm vi dự án) dựa trên Project charter và Requirements collection
+
+Vì chúng ta cần phải mô tả chi tiết những deliverables (sản phẩm) và tasks (công việc) của dự án, nên chúng ta cũng sẽ có thể xác định được các bộ phận chuyên trách như bộ phận quan hệ khách hàng hay bộ phận phát triển dự án  
+Ngay cả khi các yêu cầu rất khó có thể thực hiện thì chúng ta cũng nên đưa ra các phương án thay thế mà có thể đáp ứng tối đa có thể yêu cầu của khách hàng
+
+*Project scope management*  
+Là tài liệu mô tả chi tiết phạm vi thực hiện của dự án  
+Những yếu tố cần được mô tả bao gồm:  
+  Sản phẩm và services mà dự án sẽ mang lại
+  Phạm vi sản phẩm: mô tả chức năng và đặc tính của sản phẩm
+  Những công việc cần làm để có thể tạo ra được sản phẩm của dự án
+  
+![](https://github.com/nghiapham1013/study-report/blob/201905-study-report/scope_5.png)
+
+##### 2.2.4 Tạo WBS (Work Breakdown Structure)
+
+Ở giai đoạn này chúng ta sẽ dựa trên Requirements documents và Scope statements để đưa deliverables và tasks của dự án vào trong WBS  
+Thông qua việc xây dựng WBS chúng ta sẽ có thể xác định rõ những công việc cần làm trong dự án, cũng như schedule và plan thực hiện các công việc đó
+
+Có một phương pháp được gọi là `decomposition` được áp dụng để xây dựng WBS. Bằng việc phân tách theo cấu trúc phân tầng thì sẽ giúp chúng ta chia các đầu việc thành các work packages hỗ trợ cho việc xây dựng schedule và cost estimation
+
+##### 2.2.5 Validating scope
+
+Là giai đoạn mà khách hàng cũng như các bên đầu tư sẽ review và chấp thuận các deliverables đã được định nghĩa  
+Chúng ta sẽ xác nhận xem sản phẩm được định nghĩa đã đáp ứng requirements và các tiêu chí chấp nhận (acceptance criterias) hay chưa
+
+Sản phẩm đã được kiểm chứng về chất lượng ở Quality management process của Quality management sẽ được khách hàng review, phê duyệt và sẽ trở thành sản phẩm chính thức của dự án
+
+![](https://github.com/nghiapham1013/study-report/blob/201905-study-report/scope_6.png)
+
+##### 2.2.6 Controlling scope
+
+Là quá trình giám sát Project scope, Product scope, quản lý những thay đổi liên quan đến Scope artifact  
+Chúng ta sẽ kiểm tra những khác biệt giữa Product và Scope baselines, sau đó dựa trên Scope baselines sẽ đưa ra những kế hoạch sửa chữa (corrective plan) thích hợp
+
+Việc sửa chữa sẽ được tiến hành thông qua việc tạo CR (change request) đến Integration change management process thuộc Integration management area
+
+![](https://github.com/nghiapham1013/study-report/blob/201905-study-report/scope_7.png)
+
+#### 2.3 Summary
+
+Scope management là một phương pháp quản lý rất cần thiết để nâng cao sự hài lòng của khách hàng  
+Bên cạnh việc quản lý chất lượng, chi phí, thời gian, thì một việc rất quan trọng nữa chính là  nắm bắt được nhu cầu từ những mong muốn của khách hàng, từ đó đưa ra những yếu tố cần thiết để đạt được mục tiêu đó
+
+Chỉ với những người chúng ta thường xuyên gặp gỡ trao đổi thì chưa chắc chắn sẽ giúp chúng ta định nghĩa được nhu cầu chính xác. Với việc cố gắng tiếp cận tất cả những người có liên quan, nắm bắt những yếu tố cốt lõi thì việc xây dựng được scope chính xác cho dự án sẽ trở nên dễ dàng hơn
+
+Như vậy, ở bài viết này chúng ta đã tìm hiểu qua những kiến thức, khái niệm cơ bản cũng như những phương pháp vận dụng Scope management vào thực tế. Việc chỉ học lý thuyết suông thôi thì có thể sẽ dễ dàng tuy nhiên để áp dụng được vào thực tế thì lại không phải là một chuyện đơn giản
+
+Với việc liên tục làm việc và tạo ra những sản phẩm cụ thể trong suốt dự án thì tự khắc những kiến thức sẽ mau chóng trở thành của chúng ta
 
 *Bài viết tham khảo: https://www.innopm.com/blog/2017/11/20/scope_management/*
