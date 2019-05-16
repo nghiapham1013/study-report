@@ -1,4 +1,4 @@
-# [PM beginner] Những khái niệm và phương pháp cơ bản
+# [PM beginner] Những khái niệm và phương pháp cơ bản (P1 - Project Integration Management)
 
 Một Project Manager (PM) là người cần phải có nhiều kiến thức và kỹ năng phong phú để có thể dẫn dắt dự án đi đến thành công.
 
