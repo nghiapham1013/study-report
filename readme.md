@@ -1,6 +1,6 @@
 # [PM beginner] Những khái niệm và phương pháp cơ bản (P2 - Scope management)
 
-![]()
+![](https://github.com/nghiapham1013/study-report/blob/201905-study-report/scope_1.jpg)
 
 Ở bài viết trước chúng ta cũng đã được biết về khái niệm PMBOK:
 
@@ -17,7 +17,7 @@
 
 Scope management là 1 trong 10 area của PMBOK. Và ở bài viết này, chúng ta sẽ tập trung vào tìm hiểu Scope management area
 
-![]()
+![](https://github.com/nghiapham1013/study-report/blob/201905-study-report/scope_2.png)
 
 ## I. [Lý thuyết] Những kiến thức cơ bản cần thiết cho quản lý dự án
 
@@ -46,7 +46,7 @@ Scope management trong PMBOK là việc xác định rõ được output cuối 
 
 Những công việc thuộc nhóm Planning sẽ được thực hiện vào giai đoạn xây dựng kế hoạch của dự án. Còn những công việc thuộc nhóm Monitoring/Controlling là những công việc theo dõi kết quả thực tế trong suốt quá trình thực hiện dự án, cũng như kiểm soát sự chênh lệch so với kế hoạch ban đầu
 
-![]()
+![](https://github.com/nghiapham1013/study-report/blob/201905-study-report/scope_3.png)
 
 ##### 2.1.2 Mục đích của việc quản lý scope
 
@@ -72,7 +72,7 @@ Không chỉ những người chúng ta gặp gỡ trao đổi hàng ngày mà t
 Như vậy chúng ta đã cùng nhau tìm hiểu những kiến thức, khái niệm cơ bản về Scope management. Tuy nhiên nếu chỉ có lý thuyết mà không có phương pháp thực hành thì rất khó để vận dụng vào trong dự án thực tế. Với việc thực sự bắt tay vào làm việc và tạo ra những output thực tế thì sẽ rất dễ dàng cho chúng ta để có thể áp dụng vào dự án thực tế sau này  
 Vậy hãy cùng tìm hiểu thêm về những phương pháp và output của Scope management theo từng process trong dự án
 
-![]()
+![](https://github.com/nghiapham1013/study-report/blob/201905-study-report/scope_4.png)
 
 ##### 2.2.1 Scope management plan
 
