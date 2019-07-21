@@ -114,7 +114,7 @@ Chúng ta sẽ xác định ngày bắt đầu sớm/muộn nhất cũng như ng
 
 ![](https://github.com/nghiapham1013/study-report/blob/201907-study-report/Time4.png)
 
-*Milestones chart*
+*Milestones chart*  
 Phương pháp xác định ngày bắt đầu và kết thúc dự kiến của các sự kiện/sản phẩm bàn giao chính
 
 ![](https://github.com/nghiapham1013/study-report/blob/201907-study-report/Time5.png)
