@@ -18,7 +18,7 @@ Các process sẽ tương ứng với các giai đoạn trong một dự án, v�
 Các công việc trong mỗi giai đoạn sẽ được thực hiện theo các parts. Flow sẽ là sử dụng những "input" có sẵn, thông qua các "tool" để có thể đưa ra được "output" mong muốn  
 Ở bài viết lần này thì chúng ta sẽ cùng tìm hiểu về 1 trong 10 processes, đó chính là Time management
 
-![](https://github.com/nghiapham1013/study-report/blob/201907-study-report/Time1.PNG)
+
 
 ##### 3.1.1 Time management là gì?
 Trong PMBOK thì Time management chính là area mà ở đó ta sẽ tạo và quản lý project schedule   
